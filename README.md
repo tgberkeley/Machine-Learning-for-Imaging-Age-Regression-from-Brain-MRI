@@ -1,5 +1,7 @@
 # Machine-Learning-for-Imaging-Age-Regression-from-Brain-MRI
 
+## Machine Learning for Imaging Coursework Imperial College 2020/2021
+
 Predicting the age of a patient from their brain MRI scan can have diagnostic value for a number of diseases 
 that may cause structural changes and potential damage to the brain. A discrepancy between the predicted age and the real, 
 chronological age of a patient might indicate the presence of disease. This requires an accurate predictor of brain age 
